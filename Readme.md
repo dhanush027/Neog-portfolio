@@ -1,0 +1,1 @@
+This project consists of portfolio which gives a an idea for th einterviewer to have a look into my skillset and check the relevant skills in real time.
